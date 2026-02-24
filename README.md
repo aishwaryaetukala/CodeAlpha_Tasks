@@ -1,2 +1,62 @@
-# CodeAlpha_Tasks
-Iris Flower Classification using Machine Learning (Logistic Regression) - CodeAlpha Data Science Internship Task 1
+# CodeAlpha Data Science Internship Tasks
+
+This repository contains the tasks completed as part of the Data Science Internship Program at CodeAlpha, focusing on machine learning and data analysis projects.
+
+---
+
+## 📌 Task 1: Iris Flower Classification
+
+### Objective:
+To build a machine learning model that classifies Iris flowers into three species:
+- Iris-setosa
+- Iris-versicolor
+- Iris-virginica
+
+### Approach:
+- Data preprocessing using Pandas
+- Train-test split (80/20)
+- Logistic Regression model using Scikit-learn
+- Model evaluation using:
+  - Accuracy Score
+  - Confusion Matrix
+  - Classification Report
+
+### Result:
+The model achieved **100% accuracy** on the test dataset.
+
+---
+
+## 📌 Task 2: Unemployment Analysis with Python
+
+### Objective:
+To analyze unemployment trends in India and study the impact of Covid-19 using data visualization and exploratory data analysis.
+
+### Analysis Performed:
+- Data cleaning and preprocessing
+- Time series trend analysis
+- Covid-19 impact analysis (2020 spike observation)
+- Regional unemployment comparison
+- Urban vs Rural comparison
+- Correlation analysis between unemployment and labour participation rate
+
+### Key Insights:
+- Significant rise in unemployment during Covid-19 lockdown period.
+- Certain regions consistently show higher unemployment rates.
+- Urban areas experienced sharper fluctuations during the pandemic.
+- Gradual stabilization observed post-2020.
+
+---
+
+## 🛠 Tools & Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
+---
+
+## 📂 Repository Structure
