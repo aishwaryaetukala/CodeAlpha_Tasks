@@ -1,18 +1,19 @@
-# CodeAlpha Data Science Internship Tasks
+# 🚀 CodeAlpha Data Science Internship Tasks
 
-This repository contains the tasks completed as part of the Data Science Internship Program at CodeAlpha, focusing on machine learning and data analysis projects.
+This repository contains the projects completed as part of the **CodeAlpha Data Science Internship Program**.  
+The projects focus on Machine Learning, Data Analysis, and Data Visualization using Python.
 
 ---
 
-## 📌 Task 1: Iris Flower Classification
+# 📌 Task 1: Iris Flower Classification
 
-### Objective:
+## 🎯 Objective
 To build a machine learning model that classifies Iris flowers into three species:
 - Iris-setosa
 - Iris-versicolor
 - Iris-virginica
 
-### Approach:
+## 🛠 Approach
 - Data preprocessing using Pandas
 - Train-test split (80/20)
 - Logistic Regression model using Scikit-learn
@@ -21,25 +22,25 @@ To build a machine learning model that classifies Iris flowers into three specie
   - Confusion Matrix
   - Classification Report
 
-### Result:
+## 📊 Result
 The model achieved **100% accuracy** on the test dataset.
 
 ---
 
-## 📌 Task 2: Unemployment Analysis with Python
+# 📌 Task 2: Unemployment Analysis with Python
 
-### Objective:
-To analyze unemployment trends in India and study the impact of Covid-19 using data visualization and exploratory data analysis.
+## 🎯 Objective
+To analyze unemployment trends in India and study the impact of Covid-19 using data visualization and exploratory data analysis (EDA).
 
-### Analysis Performed:
+## 📊 Analysis Performed
 - Data cleaning and preprocessing
 - Time series trend analysis
 - Covid-19 impact analysis (2020 spike observation)
 - Regional unemployment comparison
 - Urban vs Rural comparison
-- Correlation analysis between unemployment and labour participation rate
+- Correlation analysis between unemployment rate and labour participation rate
 
-### Key Insights:
+## 🔍 Key Insights
 - Significant rise in unemployment during Covid-19 lockdown period.
 - Certain regions consistently show higher unemployment rates.
 - Urban areas experienced sharper fluctuations during the pandemic.
@@ -47,7 +48,7 @@ To analyze unemployment trends in India and study the impact of Covid-19 using d
 
 ---
 
-## 🛠 Tools & Technologies Used
+# 🛠 Tools & Technologies Used
 
 - Python
 - Pandas
@@ -59,4 +60,11 @@ To analyze unemployment trends in India and study the impact of Covid-19 using d
 
 ---
 
-## 📂 Repository Structure
+# 📂 Repository Structure
+
+---
+
+# 👩‍💻 Author
+
+**Aishwarya**  
+Data Science Intern – CodeAlpha
